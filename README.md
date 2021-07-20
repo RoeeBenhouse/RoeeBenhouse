@@ -21,12 +21,12 @@ These are some of my project... Some are university projects and the rest are pr
 
 --------------------------------------------------------
 
-- 👉Trading System - Ali Bamba project
-- Server-Client Application for buying product and manage stores
-- Server side - Java, Spring Boot Application
-- Client side - React, NodeJS
-- Data Bases - Hibernate ORM, postgres local DB, 
-- https://github.com/amitrub/Trading-System.git
+- 👉My First App - Angular
+- Server-Client Application for buying product and manage stores // TODO: change!!!
+- Server side - Java, Spring Boot Application  // TODO: change!!!
+- Client side - Angular, NodeJS 
+- Data Bases - Hibernate ORM, postgres local DB,  // TODO: change!!!
+- https://github.com/RoeeBenhouse/my-first-app-Angular
 
 ---------------------------------------------------------------------
 Thanks!
